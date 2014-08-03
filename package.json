@@ -1,0 +1,24 @@
+{
+  "name": "karma-webcomponent-helpers",
+  "version": "0.0.1",
+  "description": "helper functions to assist web component testing",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsoverson/karma-webcomponent-helpers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsoverson/karma-webcomponent-helpers/issues"
+  },
+  "keywords": [
+    "karma-plugin",
+    "web-components",
+    "polymer"
+  ],
+  "author": {
+    "name": "Jarrod Overson",
+    "email": "jsoverson@gmail.com",
+    "url": "http://jarrodoverson.com/"
+  },
+  "license": "ISC"
+}
